@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+  color: rgb(16, 15, 15);
+  background-color: antiquewhite;
+  padding: 10px;
+}
+h1 + p {
+  color: rgb(244, 8, 55);
+  background-color: rgb(213, 224, 184);
+  padding: 10px;
+}
+h2 {
+  color: rgb(41, 41, 40);
+}
+.information {
+  background-color: lightskyblue;
+}
+#button {
+  background-color: chartreuse;
+  text-align: center;
+  padding: 10px;
+  border-style: calc();
+}
+#form-submit-button {
+  color: aliceblue;
+  background-color: rgb(221, 86, 24);
+  font-weight: bolder;
+  border-style: none;
+  border-radius: 5px;
+  padding: 5px;
+}
